@@ -1,0 +1,3 @@
+/Users/csuftitan/Library/CloudStorage/OneDrive-CalStateFullerton/Cal_State_Fullerton/Semester_3_Fall_2024/EGEC 447/TermPaper/cmake-build-debug/CMakeFiles/TermPaper.dir
+/Users/csuftitan/Library/CloudStorage/OneDrive-CalStateFullerton/Cal_State_Fullerton/Semester_3_Fall_2024/EGEC 447/TermPaper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/csuftitan/Library/CloudStorage/OneDrive-CalStateFullerton/Cal_State_Fullerton/Semester_3_Fall_2024/EGEC 447/TermPaper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
